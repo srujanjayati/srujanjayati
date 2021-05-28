@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srujanjayati
+- 👀 I’m interested in tech, design & music
+- 🌱 I’m currently learning web dev - flask w/ python
+- 🤝 I’m looking to collaborate on my interests, see line 2
+- 📫 Reach me at https://t.me/srujanjayati
